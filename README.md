@@ -10,11 +10,3 @@ This is my first project with Qiskit and Python where I applied my Knowledge in 
  
 
   
-## Installation
-
- 
-
-
-
-    
-## Usage
